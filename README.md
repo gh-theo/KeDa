@@ -2,7 +2,7 @@
 
 # 可达(KeDa)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/keda) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/keda) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 可达（KeDa）是采用 SD-WAN 架构的机场订阅服务，常见叫法包括“KeDa VPN”“可达梯子”和“可达机场”。据机场介绍，其通过路由优化连接到不同代理节点；选择套餐时可先按流量筛选，再结合自己的运营商、常用时段与下方记录判断表现。
 
